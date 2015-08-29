@@ -1,15 +1,18 @@
+# Hidden files have names that begin with a dot
+# The git directory stores all changes in your file.
+
 history | subl
 cd
 pwd
 man subl
 history
 history | less
-subl prime.py 
+subl prime.py
 touch prime.py
 git push -u origin master
 git remote add origin https://github.com/zachrickert/prime
 git commit -m "initial commit"
-git add README.md 
+git add README.md
 git status
 git init
 ls
@@ -50,7 +53,7 @@ ls -t
 cd Downloads/
 cd code/
 cd prime/
-subl README.md 
+subl README.md
 touch README.md
 mkdir prime
 git config --global user.email
@@ -73,14 +76,14 @@ brew doctor
 brew update
 python
 git remote add origin https://github.com/zachrickert/factorial.git
-git add factorial.py 
-open factorial.py 
+git add factorial.py
+open factorial.py
 touch factorial.py
 open README.md \
 
 open README.md
 cd factorial/
-open README.md 
+open README.md
 git inti
 mkdir factorial
 cd..
@@ -93,8 +96,8 @@ git checkout new_readme
 git branch new_readme
 git pull origin new_readme
 git remote add origin https://github.com/zachrickert/quadratic.git
-git add quadratic.py 
-open quadratic.py 
+git add quadratic.py
+open quadratic.py
 touch quadratic.py
 cd quadratic/
 mkdir quadratic
@@ -103,8 +106,8 @@ git remote -v
 git re,ote -v
 git remote add origin https://github.com/zachrickert/change.git
 git commit -m "first commit"
-git add change.py 
-open change.py 
+git add change.py
+open change.py
 touch change.py
 echo "# choas" >> README.md
 cd change/
@@ -114,7 +117,7 @@ mkdir calculator
 git merge length
 git push -u origin length
 git commit -m "modify to include several length units."
-git add convert.py 
+git add convert.py
 open convert.py
 git checkout length
 git branch length
@@ -127,15 +130,15 @@ git merge FtoC
 git push -u origin FtoC
 git commit -m "add F to C conversion. commit .py file"
 git commit -m "add F to C conversion."
-open convert.py 
+open convert.py
 git checkout FtoC
 git branch FtoC
 cd convert
 git merge apr
 git push -u origin apr
 git commit -m "allows compounding at several periods during the year at a nominal rate."
-git add futval.py 
-open futval.py 
+git add futval.py
+open futval.py
 git checkout apr
 git branch apr
 git merge yr_invest
@@ -160,7 +163,7 @@ git chechout loop5
 git branch loop5
 git push -u origin avg3
 git commit -m "updated readme file with correct discription."
-open average.py 
+open average.py
 git checkout avg3
 git branch avg3
 cd average/
@@ -173,7 +176,7 @@ echo "#futval" >> README.md
 mkdir futval
 git clone https://github.com/zachrickert/futval
 git commit -m "added code to compute averages"
-git add average.py 
+git add average.py
 touch average.py
 git remote add origin https://github.com/zachrickert/average.git
 git remote remove origin
@@ -194,7 +197,7 @@ cd chaos/
 git merge two_inputs
 git push -u origin two_inputs
 git commit -m "asks for two inputs and displays the output together"
-git add chaos.py 
+git add chaos.py
 open *
 git checkout -b two_inputs
 git merge iterations
@@ -212,8 +215,8 @@ git commit -m "fixed input x error"
 git --help
 touch chaos.py
 mkdir chaos
-rm README.md 
-edit README.md 
+rm README.md
+edit README.md
 git commit -a -m "Added info to the readme file"
 git add file1
 open file1
@@ -244,12 +247,12 @@ git commit
 subl readme
 cd gitexample/
 clear
-subl HEAD 
-subl COMMIT_EDITMSG 
+subl HEAD
+subl COMMIT_EDITMSG
 cd .git
 git add readme
 git init gitexample
-rm example2.txt 
+rm example2.txt
 cp example2.txt example.txt
 mv example.txt example2.txt
 mv example1.txt example2.txt
@@ -290,7 +293,7 @@ git branch test
 man git-branch
 man branch
 man git branch
-git branch -D bar_feature 
+git branch -D bar_feature
 git checkout -b bar_feature
 git commit -m "Starting on the foo feature"
 touch file4
@@ -303,10 +306,10 @@ git checkout 1e8a
 git commit -m "Added documentation for file 2"
 git add file2
 git commit -m "Added documentation for file 1"
-subl file1 
+subl file1
 git commit -m "Added three new files"
 git add file3
-git add file1 
+git add file1
 git commit -a -m "Added misison statement to the readme file."
 git confif --list
 echo user.name
@@ -318,7 +321,7 @@ man git-commit
 man gittutorial
 man giteveryday
 git commit readme
-git add readme 
+git add readme
 touch readme
 git init git_project
 rm -r my_project/
@@ -341,20 +344,20 @@ cd../..
 ls -la
 cd bin
 cd home
-cd .localized 
+cd .localized
 pwfd
 brew edit wget
-subl CODEOFCONDUCT.md 
+subl CODEOFCONDUCT.md
 cd /usr/local
 cd /usr/local/bin/
 subl brew
 cd $SHELL
 env
-subl .bash_history 
-subl .DS_Store 
+subl .bash_history
+subl .DS_Store
 cd fish/
 cd .config/
-subl fish/config.fish 
+subl fish/config.fish
 cd .config
 echo $HOME
 ps aux
@@ -362,16 +365,16 @@ jobs
 nano example.txt
 ps
 top
-sudo chown Zach example.txt 
-sudo chown Zach:Zach example.txt 
-sudo chown test example.txt 
-chown test example.txt 
+sudo chown Zach example.txt
+sudo chown Zach:Zach example.txt
+sudo chown test example.txt
+chown test example.txt
 touch example.txt
 su test
 whoami
 sudo adduser test
 su guest
-sudo adduser 
+sudo adduser
 cd /usr/local/git/bin
 cd /sbin/
 cd /usr/sbin/
@@ -394,14 +397,14 @@ ls man
 sudo man
 sudo mna
 curl -L trhou.se/patch01 | bash
-less Hello\ World 
+less Hello\ World
 cd SEA-C26/
 less temp.html
 cd baseball
 cd color/
 ls -l -a
 ls -l ~
-open test.html 
+open test.html
 cd code/color
 url -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'zachrickert@gmail.com'
@@ -451,7 +454,7 @@ ls foo
 ls foo/foo2/
 rm foo
 ls foo/
-rm foo/thisCopy 
+rm foo/thisCopy
 mv foo/foo2/copy1 foo/thisCopy
 mv -r foo/thisFolder foo/this
 mv foo/thiFolder foo/thisOtherFolder
