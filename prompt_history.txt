@@ -1,0 +1,502 @@
+history | subl
+cd
+pwd
+man subl
+history
+history | less
+subl prime.py 
+touch prime.py
+git push -u origin master
+git remote add origin https://github.com/zachrickert/prime
+git commit -m "initial commit"
+git add README.md 
+git status
+git init
+ls
+cd code/prime
+cd ..
+cd /
+subl .
+ls -al | subl
+ls | subl
+ls /
+tree
+cd ../chaos
+cd change
+cd code
+cd Zach/
+cd ../..
+..
+ls -a
+ls -l
+ls -R
+ls -G
+ls -i
+man ls
+man las
+q
+man ls | subl
+ls -al
+ls -at
+cd ~
+ls -rtla
+ls -rtl
+ls -rt
+ls -lr
+ls -r
+ls -lt
+ls -l -t
+ls -t
+cd Downloads/
+cd code/
+cd prime/
+subl README.md 
+touch README.md
+mkdir prime
+git config --global user.email
+git config --global user.name
+git --version
+echo $PATH
+rm .git
+git branch
+git --version\
+
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+brew info fish
+fish_update_completions
+brew doctor
+brew update
+python
+git remote add origin https://github.com/zachrickert/factorial.git
+git add factorial.py 
+open factorial.py 
+touch factorial.py
+open README.md \
+
+open README.md
+cd factorial/
+open README.md 
+git inti
+mkdir factorial
+cd..
+git merge new_readme
+git checkout master
+git commit -m "updated readme."
+git branch master
+git pull origin master
+git checkout new_readme
+git branch new_readme
+git pull origin new_readme
+git remote add origin https://github.com/zachrickert/quadratic.git
+git add quadratic.py 
+open quadratic.py 
+touch quadratic.py
+cd quadratic/
+mkdir quadratic
+git commit -m "update README.md"
+git remote -v
+git re,ote -v
+git remote add origin https://github.com/zachrickert/change.git
+git commit -m "first commit"
+git add change.py 
+open change.py 
+touch change.py
+echo "# choas" >> README.md
+cd change/
+mkdir change
+cd calculator/
+mkdir calculator
+git merge length
+git push -u origin length
+git commit -m "modify to include several length units."
+git add convert.py 
+open convert.py
+git checkout length
+git branch length
+git merge KMtoM
+git push -u origin KMtoM
+git commit -m "added length conversion."
+git checkout KMtoM
+git branch KMtoM
+git merge FtoC
+git push -u origin FtoC
+git commit -m "add F to C conversion. commit .py file"
+git commit -m "add F to C conversion."
+open convert.py 
+git checkout FtoC
+git branch FtoC
+cd convert
+git merge apr
+git push -u origin apr
+git commit -m "allows compounding at several periods during the year at a nominal rate."
+git add futval.py 
+open futval.py 
+git checkout apr
+git branch apr
+git merge yr_invest
+git push -u origin yr_invest
+git commit -m "added ability to add a set amount every year."
+git checkout yr_invest
+git branch yr_invest
+cd futval/
+git merge year_input
+git push -u origin year_input
+git commit -m "added year to the user inputs."
+git checkout year_input
+git branch year_input
+git push -u origin table10
+git commit -m "made the program create a table."
+git checkout table10
+git branch table10
+git push -u origin loop5
+git commit -m "made the program loop through 5 times."
+git checkout loop5
+git chechout loop5
+git branch loop5
+git push -u origin avg3
+git commit -m "updated readme file with correct discription."
+open average.py 
+git checkout avg3
+git branch avg3
+cd average/
+git commit -m "added an introduction to the program."
+git commit -m "future val in 10years"
+touch futval.py
+git remote add origin https://github.com/zachrickert/futval.git
+git ap
+echo "#futval" >> README.md
+mkdir futval
+git clone https://github.com/zachrickert/futval
+git commit -m "added code to compute averages"
+git add average.py 
+touch average.py
+git remote add origin https://github.com/zachrickert/average.git
+git remote remove origin
+git remote add origin https://github.com/zachrickert/choas.git
+echo "#average" >> README.md
+mkdir average
+touch convert.py
+git clone https://github.com/zachrickert/convert
+rmdir convert/
+rm -r Convert
+cd convert/
+rm Convert
+rm Convert/
+git clone https://github.com/zachrickert/Convert
+mkdir convert
+git commit -m "updated readme with info about the programming book."
+cd chaos/
+git merge two_inputs
+git push -u origin two_inputs
+git commit -m "asks for two inputs and displays the output together"
+git add chaos.py 
+open *
+git checkout -b two_inputs
+git merge iterations
+git push -u origin iterations
+git checkout iterations
+git checkout iteration
+git log
+git commit -m "asks user for the number of iterations"
+git checkout -b iterations
+git push origin change_multiplier
+git commit -m "changed multiplier to 2.0"
+git checkout -b change_multiplier
+git push origin master
+git commit -m "fixed input x error"
+git --help
+touch chaos.py
+mkdir chaos
+rm README.md 
+edit README.md 
+git commit -a -m "Added info to the readme file"
+git add file1
+open file1
+help
+edit file1
+file1
+file
+touch file1
+cd hello-world/
+git clone https://github.com/zachrickert/hello-world
+ls hello
+mkdir hello
+cd ../
+cd python
+git config --list -l
+git config --list
+git help -a
+git user
+man git
+git
+cd code/Python/ch\ 2/
+cd Ch\ 1/
+shell
+change.py
+touch file3
+touch file2
+git commit
+subl readme
+cd gitexample/
+clear
+subl HEAD 
+subl COMMIT_EDITMSG 
+cd .git
+git add readme
+git init gitexample
+rm example2.txt 
+cp example2.txt example.txt
+mv example.txt example2.txt
+mv example1.txt example2.txt
+man rm
+cd git_project
+git checkout new_feature
+git commit -a -m "Added text to file 1"
+subl file1
+cd ~/git_project/
+git push origin new_feature
+git push
+git commit -m "Added cool editted int"
+git add file4
+subl file4
+git pull origin new_feature
+git commit -m "Added cool to file 4"
+cd our_clone_project/
+git commit -m "Fixed bug in file4"
+cd git_project/
+git remote
+git push new_feature
+git commit -m "New Feature - file4"
+git checkout -b new_feature
+git remote add our_clone ~/git_project/
+git clone ~/git_project our_clone_project
+git commit -m "Merged readme files from master and foo_feature."
+git merge foo_feature
+git commit -m "Updated readme with an important fact."
+git checkout foo_feature
+git commit -m "Updated readme file"
+man git_search
+man git_find
+man git-log --branches
+man git-log
+git branch test -m tested
+branch
+git branch test
+man git-branch
+man branch
+man git branch
+git branch -D bar_feature 
+git checkout -b bar_feature
+git commit -m "Starting on the foo feature"
+touch file4
+git branch foo_feature
+man git-add
+git diff d9fb b819
+git diff 1e8a b819
+cat file1
+git checkout 1e8a
+git commit -m "Added documentation for file 2"
+git add file2
+git commit -m "Added documentation for file 1"
+subl file1 
+git commit -m "Added three new files"
+git add file3
+git add file1 
+git commit -a -m "Added misison statement to the readme file."
+git confif --list
+echo user.name
+git commit readme -m "Added a readme file"
+git commit readme -w
+git commit -w readme
+git commit -c readme
+man git-commit
+man gittutorial
+man giteveryday
+git commit readme
+git add readme 
+touch readme
+git init git_project
+rm -r my_project/
+rm -r my_first_repository_test/
+mv my_first_repository/ my_first_repository_test/
+cd my_project/
+mkdir my_project
+cd my_first_repository/
+git init my_first_repository
+brew upgrade $git
+brew outdated
+which make
+man apt
+sudo apt-get update
+man eval
+eval $PS1
+$PS1 = "\w :)"
+echo $PS1
+cd../..
+ls -la
+cd bin
+cd home
+cd .localized 
+pwfd
+brew edit wget
+subl CODEOFCONDUCT.md 
+cd /usr/local
+cd /usr/local/bin/
+subl brew
+cd $SHELL
+env
+subl .bash_history 
+subl .DS_Store 
+cd fish/
+cd .config/
+subl fish/config.fish 
+cd .config
+echo $HOME
+ps aux
+jobs
+nano example.txt
+ps
+top
+sudo chown Zach example.txt 
+sudo chown Zach:Zach example.txt 
+sudo chown test example.txt 
+chown test example.txt 
+touch example.txt
+su test
+whoami
+sudo adduser test
+su guest
+sudo adduser 
+cd /usr/local/git/bin
+cd /sbin/
+cd /usr/sbin/
+cd /bin/
+cd /usr/bin/
+cd usr/bin
+cd usr/local/bin/
+cd ../usr/sbin/
+cd sbin
+cd/
+cd usr
+su -
+man adduser
+sudo adduser
+man su
+useradd
+adduser
+man sudo
+ls man
+sudo man
+sudo mna
+curl -L trhou.se/patch01 | bash
+less Hello\ World 
+cd SEA-C26/
+less temp.html
+cd baseball
+cd color/
+ls -l -a
+ls -l ~
+open test.html 
+cd code/color
+url -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'zachrickert@gmail.com'
+git config --global user.name 'Zach Rickert'
+brew install git
+curl -fsSL http://git.io/beJs | ruby
+root
+cd Shared
+cd /Shared
+cd /Users
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /Users/Zach/bin/subl
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+man ps
+chmod g+w bin
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" subl
+subl --help
+man run
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+man ln
+mkdir bin
+man chmod
+cd Library
+cd Guests
+cd Users/
+;s
+cdls
+ls /etc/????
+ls /etc/*.?
+ls /etc/*.??
+ls /etc/*.???
+ls /etc/*.*
+ls -l /etc/m*
+ls - l etc/m*
+ls - l eyc/m*
+ls /etc/m*
+ls /etc/
+ls /etc
+ls etc/
+etc/
+ls/etc m*
+cat exampl1
+cat examl1
+vi exampl1
+rm -r foo/foo2/
+ls foo
+ls foo/foo2/
+rm foo
+ls foo/
+rm foo/thisCopy 
+mv foo/foo2/copy1 foo/thisCopy
+mv -r foo/thisFolder foo/this
+mv foo/thiFolder foo/thisOtherFolder
+ls foo/thisFolder/
+ls foo/thiFolder/
+cp -r foo/foo2 foo/thisFolder
+cp foo/foo2 foo/thisfolder
+ls/foo/foo2/
+ls/foo/foo2
+cp copy1 foo/foo2/
+mv foo2 foo/foo2
+mv example1 copy1
+cp example1 foo/example1
+mkdir bar
+touch example2
+cp -r foo foo2
+cp foo foo2
+cd linuxtutorialwork/
+cp linuxtutorialwork/example1 example2
+ls linuxtutorialwork/
+mkdir linuxtutorialwork/foo
+touch linuxtutorialwork/example1
+rmdir linuxtutorialwork/foo/
+rmdir linuxtutorialwork/foo/bar/
+ls linuxtutorialwork/foo
+rmdirk linuxtutorialwork/foo/
+rmdirk linuxtutorialwork/foo
+ls linuxtutorialwork/foo/bar/
+ls linuxtutirualwork
+mkdir -pv linuxtutorialwork/foo/bar
+ls -Gl
+mkdir linuxtutorialwork
+ls -g
+ls -F
+ls -B
+ls -A
+ls -lT
+ls -iT
+ls -l -T
+ls -s
+ls TimeGreeting.html
+cd html\ java/
+man cat
+file greeting.html
+cd SEA-C26
+cd SEA-C-26
+file Python/change.py
+cd ~/code
