@@ -1,0 +1,8 @@
+git init - initialize
+git add - stages changes for the commit
+git commit - takes snap shot
+git branch - creates a new branch
+git checkout - checks out a branch
+git status - shows you the status of current repo
+git log - shows history of commits
+git config - set configuration value of git
