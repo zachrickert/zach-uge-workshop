@@ -6,3 +6,8 @@ git checkout - checks out a branch
 git status - shows you the status of current repo
 git log - shows history of commits
 git config - set configuration value of git
+
+git remote -v - lists the github remotes
+git remote add origin git@github.com:zachrickert/zach-uge-workshop.git
+
+git push -u origin master
